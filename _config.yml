@@ -1,12 +1,12 @@
 # Site
 name: "karimiariqn"
 title: "karimiariqn"
-description: "ngedit + tokupens + belajar web + nyatir + turu"
+description: "ngedit + belajar web + nyatir + turu"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
 google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
+disqus: 'karimiariqn'
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
