@@ -4,7 +4,7 @@ title:  "Beliau ini Kocak gaming"
 author: Karimi
 categories: [ meme ]
 tags: [ nyatir ]
-image: assets/images/psatir
+image: assets\images\psatir.jpg
 description: "anjime"
 ---
 
