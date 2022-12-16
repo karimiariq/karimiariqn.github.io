@@ -5,7 +5,7 @@ permalink: /kontak
 comments: false
 ---
 
-<form action="https://formspree.io/{{site.email}}" method="POST">    
+<form action="https://formspree.io/f/xjvzdepj" method="POST">    
 <p class="mb-4">hanya untuk request, kritik saran dan kerjasama.</p>
 <div class="form-group row">
 <div class="col-md-6">
