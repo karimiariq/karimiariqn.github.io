@@ -22,7 +22,7 @@ body, input, button, select, optgroup, textarea {
 }
 body {
     line-height:1.7;
-    background: #d1d1d1;
+    background: #e2e2e2;
 }
 a {
     color: darken($primary, 24%);
@@ -449,7 +449,7 @@ img, img:hover {
     }
     code {
         font-size: 15px;
-        color: #94918d;
+        color: #dadada;
     }
     code[class*="language-"], pre[class*="language-"] {
         font-size:15px;
@@ -477,7 +477,7 @@ img, img:hover {
     &:after {
         position: absolute;
         opacity: 0;
-        content: 'Click to reveal spoiler';
+        content: 'Klik biar gk kepo';
         top: 45%;
         left: calc(50% - 75px);
         text-shadow: none;

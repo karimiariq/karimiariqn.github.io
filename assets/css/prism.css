@@ -228,7 +228,7 @@ div.code-toolbar > .toolbar button {
 div.code-toolbar > .toolbar a,
 div.code-toolbar > .toolbar button,
 div.code-toolbar > .toolbar span {
-	color: #bbb;
+	color: rgb(223, 223, 223);
 	font-size: .8em;
 	padding: 0 .5em;
 	background: #f5f2f0;
