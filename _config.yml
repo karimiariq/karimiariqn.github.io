@@ -4,7 +4,7 @@ title: "seputar coding & editing"
 description: "ngedit foto + desain + belajar web + nyatir + turu = repeat brutal"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: "karimiariqn.my.id"
+baseurl: "https://karimiariqn.my.id"
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'karimiariqn'
 mailchimp-list: 
