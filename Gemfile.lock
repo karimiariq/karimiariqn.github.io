@@ -60,6 +60,10 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-admin (0.11.1)
+      jekyll (>= 3.7, < 5.0)
+      sinatra (>= 1.4)
+      sinatra-contrib (>= 1.4)
     jekyll-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
     jekyll-feed (0.17.0)
@@ -89,6 +93,9 @@ GEM
     method_source (1.0.0)
     mini_portile2 (2.8.0)
     minitest (5.16.3)
+    multi_json (1.15.0)
+    mustermann (3.0.0)
+      ruby2_keywords (~> 0.0.1)
     nokogiri (1.13.9)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
@@ -100,6 +107,8 @@ GEM
     public_suffix (5.0.0)
     racc (1.6.0)
     rack (2.2.4)
+    rack-protection (3.0.5)
+      rack
     rack-test (2.0.2)
       rack (>= 1.3)
     rails-dom-testing (2.0.3)
@@ -120,6 +129,7 @@ GEM
       ffi (~> 1.0)
     rexml (3.2.5)
     rouge (4.0.0)
+    ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -131,6 +141,17 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
+    sinatra (3.0.5)
+      mustermann (~> 3.0)
+      rack (~> 2.2, >= 2.2.4)
+      rack-protection (= 3.0.5)
+      tilt (~> 2.0)
+    sinatra-contrib (3.0.5)
+      multi_json
+      mustermann (~> 3.0)
+      rack-protection (= 3.0.5)
+      sinatra (= 3.0.5)
+      tilt (~> 2.0)
     sprockets (4.1.1)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
@@ -155,6 +176,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootstrap (~> 4.4.1)
+  jekyll-admin
   jekyll-archives
   jekyll-feed
   jekyll-figure
