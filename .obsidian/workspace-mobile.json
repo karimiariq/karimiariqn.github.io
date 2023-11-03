@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/about.md",
-                "mode": "preview",
+                "file": "_posts/2022-11-25-beliau-ini-kocak-gaming.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_pages/about.md",
+            "file": "_posts/2022-11-25-beliau-ini-kocak-gaming.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_pages/about.md",
+            "file": "_posts/2022-11-25-beliau-ini-kocak-gaming.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_pages/about.md"
+            "file": "_posts/2022-11-25-beliau-ini-kocak-gaming.md"
           }
         }
       }
@@ -132,5 +132,8 @@
     }
   },
   "active": "80eec68051db12c3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_posts/2022-12-28-hp-memori-kecil-2022.md",
+    "_pages/about.md"
+  ]
 }
