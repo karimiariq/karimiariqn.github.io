@@ -1,34 +1,45 @@
 ---
 layout: post
-title:  "Beliau ini Kocak gaming"
+title: Beliau ini Kocak gaming
 author: Karimi
-categories: [ meme ]
-tags: [ nyatir ]
+categories:
+  - meme
+tags:
+  - nyatir
 image: assets\images\psartir.jpg
-description: "anjime"
+description: anjime
+published: true
+date: '2024-01-11'
 ---
-
 jekyll
 
->Beliau ini Kocak gaming
+> ```javascript
+> Beliau ini Kocak gaming
+> ```
 
 **beliau ini kocak gaming**
 
-# Beliau ini Kocak gaming 
+# Beliau ini Kocak gaming
+
 ## Beliau ini Kocak gaming
-### Beliau ini Kocak gaming 
-#### Beliau ini Kocak gaming 
+
+### Beliau ini Kocak gaming
+
+#### Beliau ini Kocak gaming
 
 ```html
-<span class="spoiler">My hidden paragraph here.</span>
+<span class="spoiler">njir</span>
+
 ```
 
 ```html
 Beliau ini Kocak gaming
+
 ```
+
 **semi-arid tropical savanna**
 
-<span class="spoiler">Beliau ini Kocak gaming .</span>
+Beliau ini Kocak gaming .
 
 ```md
 ---
@@ -41,4 +52,5 @@ image: assets/images/11.jpg
 description: "My review of Inception movie. Actors, directing and more."
 rating: 4.5
 ---
+
 ```
