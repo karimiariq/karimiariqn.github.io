@@ -4,7 +4,7 @@ title: "seputar coding & editing"
 description: "All About 2D Graph & Motion Editing "
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: "karimiariqn.my.id/blog"
+baseurl: "https://karimiariqn.my.id/blog"
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'karimiariqn'
 mailchimp-list: 
